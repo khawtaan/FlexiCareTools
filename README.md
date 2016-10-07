@@ -16,8 +16,7 @@ AUTHORS
 CHANGELOG
 ---------
 FILE NAME: **FlexiCare-HC.bat**
-> Version 1.0
-> 2016-10-5
+> Version 1.0 ===> 2016-10-5
 > * Initial the batch file.
 > * Feature: Generate QM folder menu.
 > * Feature: Generate Supportinfo file menu.
