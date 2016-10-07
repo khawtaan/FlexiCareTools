@@ -19,7 +19,7 @@ rem ##########################################################################
 rem Environment Set
 set title_name=- FlexiCare tools for Quarterly Maintenance -
 
-TITLE %title_name%
+title %title_name%
 cls
 
 rem Warning the script should be running on
