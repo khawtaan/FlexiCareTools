@@ -38,8 +38,9 @@ Such as
 * **SAG & SNL**, Open CMD prompt from the **SWIFTNet link**.
 
 **Command**
-> \\>**FlexiCare-HC.bat**
-
+``` 
+\> FlexiCare-HC.bat
+```
 
 LICENSE
 -------
